@@ -4,6 +4,9 @@ This repository implements a batch ETL pipeline using **Databricks** for healthc
 
 ---
 
+![Uploading image.png…]()
+
+
 ## 📁 Project Structure
 
 ```
